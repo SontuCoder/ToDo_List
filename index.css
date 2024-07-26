@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.add:hover {
+    box-shadow: 0px 0px 20px 5px rgba(137, 207, 235, 0.556);
+    transform: scale(1.1);
+}
+
+.add:active {
+    color: aliceblue;
+    background-color: rgba(137, 207, 235, 0.556);
+    transform: scale(0.9);
+}
+
+.edit:hover {
+    filter: drop-shadow(rgb(0, 238, 255) 0px 0px 5px);
+}
+
+.delete:hover {
+    filter: drop-shadow(rgb(244, 127, 127) 0px 0px 5px);
+}
+
+.delete:active,
+.edit:active {
+    transform: scale(1.2);
+}
+
+.glow {
+    text-align: center;
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+    from {
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    }
+
+    to {
+        text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+    }
+}
+
+.task{
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.548);
+}
