@@ -61,6 +61,6 @@ Feel free to customize and improve the application.
 
 ## Contact
 - Email: [subhadipmaity792@gmail.com](mailto:subhadipmaity792@gmail.com)
-- GitHub: [SontuCoder](https:https://github.com/SontuCoder)
+- GitHub: [SontuCoder](https://github.com/SontuCoder)
 
 
