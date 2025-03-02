@@ -1,5 +1,5 @@
 # Todo List App
-<img src="./public/logo.jpg" height="40px" width="40px">
+<img src="./public/logo.jpg" height="40px" width="40px"> By, Subhadip Maity
 
 ## Description
 A Todo List App is a simple application that helps users manage tasks they need to complete. This app allows users to add, view, delete, and edit tasks, making it easier to stay organized and track progress. The tasks are stored in local storage to maintain data even after the app is closed.
@@ -26,15 +26,16 @@ A Todo List App is a simple application that helps users manage tasks they need 
     ```bash
     npm install
     ```
-4. Start the development server:
+1. Start the development server:
     ```bash
     npm run dev
     ```
 
 ## Images
-1. Add Task:
-<img src="./public/iPhone-13-PRO-localhost.png" height="500px">
-2. In Desktop
+1. Add task:
+<img src="./public/iPhone-13-PRO-localhost.png" height="600px">
+
+2. In Desktop screen:
 <img src="./public/Macbook-Air-localhost.png" height="400px">
 
 ## Usage
@@ -59,5 +60,7 @@ A Todo List App is a simple application that helps users manage tasks they need 
 Feel free to customize and improve the application.
 
 ## Contact
-- Email: [suhadipmaity792@gmail.com](mailto:suhadipmaity792@gmail.com)
-- GitHub: [SontuCoder](https://github.com/SontuCoder)
+- Email: [subhadipmaity792@gmail.com](mailto:subhadipmaity792@gmail.com)
+- GitHub: [SontuCoder](https:https://github.com/SontuCoder)
+
+
